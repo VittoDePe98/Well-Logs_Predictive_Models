@@ -11,8 +11,7 @@ In this study, two distinct well-log datasets were utilized to evaluate the func
 1. São Francisco onshore data, which have been published by ANP (Agência Nacional de Petróleo). The two wells of interest are 1-BRSA-871-MG and 1-BRSA-948-MG. You can access these well-logs at [https://reate.cprm.gov.br/anp/TERRESTREen].
 2. Santos offshore data, which have not been publicly released.
 3. 
-# 📌 Notebooks
-Within the Notebooks folder, you find three sub-folders 📚: 
+# 📌 3 Folders containing Notebooks
 * 📗 Well-Log_Data_Visualization:
 * 📙 Well_Lithology_Visualization:
 * 📘 Well-Logs_Prediction:
