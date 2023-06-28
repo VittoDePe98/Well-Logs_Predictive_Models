@@ -13,7 +13,7 @@ In this study, two distinct well-log datasets were utilized to evaluate the func
 3. 
 # 📌 3 Folders containing Notebooks
 * 📗 Well-Log_Data_Visualization:  GitHub does not display interactive maps created with the Folium library directly.
-* * 📙 Well_Lithology_Visualization:
+* 📙 Well_Lithology_Visualization:
 * 📘 Well-Logs_Prediction:
 
 # 📌 Software Used 
