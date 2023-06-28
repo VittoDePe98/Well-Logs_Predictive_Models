@@ -12,8 +12,8 @@ In this study, two distinct well-log datasets were utilized to evaluate the func
 2. Santos offshore data, which have not been publicly released.
 3. 
 # 📌 3 Folders containing Notebooks
-* 📗 Well-Log_Data_Visualization:
-* 📙 Well_Lithology_Visualization:
+* 📗 Well-Log_Data_Visualization:  GitHub does not display interactive maps created with the Folium library directly.
+* * 📙 Well_Lithology_Visualization:
 * 📘 Well-Logs_Prediction:
 
 # 📌 Software Used 
