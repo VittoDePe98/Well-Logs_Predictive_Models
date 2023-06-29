@@ -14,7 +14,7 @@ In this study, two distinct well-log datasets were utilized to evaluate the func
 2. Santos offshore data, which have not been publicly released.
 
 ## 📌 3 Folders containing Notebooks
-* 📗 Lithology_Visualization:
+* 📗 Lithology_Visualization:```Lithology_Columns_SãoFrancisco_Santos_Basins.ipynb```
 * 📙 LogData_Collection_and_Visualization: GitHub does not display interactive maps created with the Folium library directly.
 * 📘 Logs_Prediction:
 
@@ -26,4 +26,4 @@ Vittoria De Pellegrini, 2023, Development of Supervised Machine Learning Models 
 https://github.com/VittoDePe98/Well-Logs_Predictive_Models.git
 
 
-``` ciao ooooooooo ```
+
