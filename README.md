@@ -14,9 +14,17 @@ In this study, two distinct well-log datasets were utilized to evaluate the func
 2. Santos offshore data, which have not been publicly released.
 
 ## 📌 3 Folders containing Notebooks
-* 📗 Lithology_Visualization:```Lithology_Columns_SãoFrancisco_Santos_Basins.ipynb```
-* 📙 LogData_Collection_and_Visualization: GitHub does not display interactive maps created with the Folium library directly.
-* 📘 Logs_Prediction:
+1. 📗 Lithology_Visualization:
++ ```Lithology_Columns_SãoFrancisco_Santos_Basins.ipynb```
+2. 📙 LogData_Collection_and_Visualization: GitHub does not display interactive maps created with the Folium library directly.
++ ```RequiredDataset_CompressionalWaveSlownessLogPrediction_São FranciscoBasin.ipynb```
++ ```RequiredDataset_EffectivePorosityLogPrediction_São FranciscoBasin.ipynb```
++ ```RequiredDataset_nmrPorosityLogsPrediction_SantosBasin.ipynb```
+3. 📘 Logs_Prediction:
++ ```CompressionalWaveSlownessLog_Prediction.ipynb```
++ ```EffectivePorosityLog_Prediction.ipynb```
++ ```nmrPorosityLogs_Prediction_FirstAttempt.ipynb```
++ ```nmrPorosityLogs_Prediction_SecondAttempt.ipynb```
 
 ## 📌 Software Used 
 This research was conducted using a MacBook Pro (16", 2021) equipped with an M1 processor.
