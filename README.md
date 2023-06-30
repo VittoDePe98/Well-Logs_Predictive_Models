@@ -16,7 +16,7 @@ In this study, two distinct well-log datasets were utilized to evaluate the func
 ## 📌 3 Folders containing Notebooks
 1. 📗 Lithology_Visualization:
 + ```Lithology_Columns_SãoFrancisco_Santos_Basins.ipynb```
-2. 📙 LogData_Collection_and_Visualization: GitHub does not display interactive maps created with the Folium library directly.
+2. 📙 LogData_Collection_and_Visualization:
 + ```RequiredDataset_CompressionalWaveSlownessLogPrediction_São FranciscoBasin.ipynb```
 + ```RequiredDataset_EffectivePorosityLogPrediction_São FranciscoBasin.ipynb```
 + ```RequiredDataset_nmrPorosityLogsPrediction_SantosBasin.ipynb```
@@ -34,4 +34,4 @@ Vittoria De Pellegrini, 2023, Development of Supervised Machine Learning Models 
 https://github.com/VittoDePe98/Well-Logs_Predictive_Models.git
 
 
-
+GitHub does not display interactive maps created with the Folium library directly.
