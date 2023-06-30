@@ -27,7 +27,7 @@ In this study, two distinct well-log datasets were utilized to evaluate the func
 + ```nmrPorosityLogs_Prediction_SecondAttempt.ipynb```
 
 ## 📌 Software Used 
-This research was conducted using a MacBook Pro (16", 2021) equipped with an M1 processor, and Python 3.9.
+This research was conducted using a MacBook Pro (16", 2021) equipped with an M1 processor, and Python 3.9.12.
 
 ## 📌 Citation 
 Vittoria De Pellegrini, 2023, Development of Supervised Machine Learning Models for the Prediction of Well-Logs & Application on Wells at São Francisco and Santos Basins, Brazil. 
