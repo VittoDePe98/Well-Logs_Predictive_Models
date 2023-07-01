@@ -1,17 +1,18 @@
 # Well-Logs_Predictive_Models
 
 ## 📌 Introduction - Project Objective   
-> Development of Supervised Machine Learning Models for the Prediction of Well-Logs & Application on Wells at São Francisco and Santos Basins, Brazil.
+This work represents my Master's Thesis in Petroleum Engineering titled:
+> Development of Supervised Machine Learning Models for the Prediction of Well-Logs & Application on Wells at São Francisco and Santos Basins, Brazil"
 
-The developed predictive ML models have the flexibility to be applied to various well-log datasets. They are not limited to specific data sources or locations. Therefore, you can utilize these models with any well-log data. 
+For access to the thesis, please follow this link [].
 
-<img width="1781" alt="Screenshot 2023-06-27 alle 17 24 19" src="https://github.com/VittoDePe98/Well-Logs_Predictive_Models/assets/130911240/93354d5b-eee2-4787-8302-63570696e822">
+The objective of this research is to develop a Python code, from scratch, that implements supervised machine learning (ML) algorithms, specifically Random Forest (RF) and Gradient Boosting (GB), to build ML models for accurately predicting various types of well-logs. Two separate case studies are conducted to evaluate the functionality and effectiveness of the code. In both studies, the ML models are trained on a first well (training well) and tested on a second well (test well). The first case study focuses on the São Francisco onshore Brazilian basin. It serves as a preliminary exercise for model development and data familiarization. The goal is to predict two conventional well-logs: the calculated effective porosity and the measured compressional wave slowness logs. The second case study centers around the Santos offshore Brazilian basin, particularly the deep-water pre-salt carbonate reservoir area of the Itapu Oil Field. The attention of this research is primarily directed toward this second case study. The target is to predict high technological well-logs, including nuclear magnetic resonance (NMR) total, effective, and free fluid porosity logs.
 
 ## 📌 Well-Log Datasets Used
-Several DLIS files that you can download freely. 
-In this study, two distinct well-log datasets were utilized to evaluate the functionality and effectiveness of the ML predictive models.
-1. São Francisco onshore data, which have been published by ANP (Agência Nacional de Petróleo). The two wells of interest are 1-BRSA-871-MG and 1-BRSA-948-MG. You can access these well-logs at [https://reate.cprm.gov.br/anp/TERRESTREen].
-2. Santos offshore data, which have not been publicly released.
+1. **São Francisco Basin Onshore Data** that are published by ANP (Agência Nacional de Petróleo). The two wells of interest are 1-BRSA-871-MG and 1-BRSA-948-MG. You can access these well-logs at [https://reate.cprm.gov.br/anp/TERRESTREen].
+2. **Santos Basin Offshore Data** that are not publicly released. The two wells of interest are 1-BRSA-1116-RJS and 3-BRSA-1215-RJS.
+
+🚦These predictive ML models can be applied to various well-log datasets🚦
 
 ## 📌 3 Folders containing Notebooks
 1. 📗 Lithology_Visualization:
@@ -31,7 +32,4 @@ This research was conducted using a MacBook Pro (16", 2021) equipped with an M1 
 
 ## 📌 Citation 
 Vittoria De Pellegrini, 2023, Development of Supervised Machine Learning Models for the Prediction of Well-Logs & Application on Wells at São Francisco and Santos Basins, Brazil. 
-https://github.com/VittoDePe98/Well-Logs_Predictive_Models.git
-
-
-GitHub does not display interactive maps created with the Folium library directly.
+[https://github.com/VittoDePe98/Well-Logs_Predictive_Models.git].
