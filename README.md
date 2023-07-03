@@ -10,7 +10,7 @@ The objective of this research is to develop a Python code, from scratch, that i
 
 ## 📌 Well-Log Datasets Used
 1. **São Francisco Basin Onshore Data** that are published by ANP (Agência Nacional de Petróleo). The two wells of interest are 1-BRSA-871-MG and 1-BRSA-948-MG. You can access these well-logs at [https://reate.cprm.gov.br/anp/TERRESTREen].
-2. **Santos Basin Offshore Data** that are physically delivered by ANP only. The two wells of interest are 1-BRSA-1116-RJS and 3-BRSA-1215-RJS.
+2. **Santos Basin Offshore Data** that are physically delivered by ANP, only. The two wells of interest are 1-BRSA-1116-RJS and 3-BRSA-1215-RJS.
 
 🚦These predictive ML models can be applied to various well-log datasets🚦
 
