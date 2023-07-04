@@ -13,7 +13,7 @@ The objective of this research is to develop a Python code, from scratch, that i
 
 🚦These predictive ML models can be applied to various well-log datasets🚦
 
-## 📌 3 Folders containing Notebooks
+## 📌 3 Folders Containing Notebooks
 1. 📗 Lithology_Visualization:
 + ```Lithology_Columns_SãoFrancisco_Santos_Basins.ipynb```
 2. 📙 LogData_Collection_and_Visualization:
