@@ -4,7 +4,6 @@
 This work represents my Master's Thesis in Petroleum Engineering titled:
 > Development of Supervised Machine Learning Models for the Prediction of Well-Logs & Application on Wells at São Francisco and Santos Basins, Brazil"
 
-For access to the thesis, please follow this link [].
 
 The objective of this research is to develop a Python code, from scratch, that implements supervised machine learning (ML) algorithms, specifically Random Forest (RF) and Gradient Boosting (GB), to build ML models for accurately predicting various types of well-logs. Two separate case studies are conducted to evaluate the functionality and effectiveness of the code. In both studies, the ML models are trained on a first well (training well) and tested on a second well (test well). The first case study focuses on the São Francisco onshore Brazilian basin. It serves as a preliminary exercise for model development and data familiarization. The goal is to predict two conventional well-logs: the calculated effective porosity and the measured compressional wave slowness logs. The second case study centers around the Santos offshore Brazilian basin, particularly the deep-water pre-salt carbonate reservoir area of the Itapu Oil Field. The attention of this research is primarily directed toward this second case study. The target is to predict high technological well-logs, including nuclear magnetic resonance (NMR) total, effective, and free fluid porosity logs.
 
