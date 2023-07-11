@@ -26,7 +26,7 @@ The objective of this research is to develop a Python code, from scratch, that i
 + ```nmrPorosityLogs_Prediction_FirstAttempt.ipynb```
 + ```nmrPorosityLogs_Prediction_SecondAttempt.ipynb```
 
-## 📌 Software Used 
+## 📌 Hardware and Software Used 
 This research was conducted using a MacBook Pro (16", 2021) equipped with an M1 processor, and Python 3.9.12.
 
 ## 📌 Citation 
