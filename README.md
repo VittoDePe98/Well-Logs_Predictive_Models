@@ -30,6 +30,7 @@ The objective of this research is to develop a Python code, from scratch, that i
 This research was conducted using a MacBook Pro (16", 2021) equipped with an M1 processor, and Python 3.9.12.
 
 ## 📌 Citation 
+```bibtex
 @phdthesis{de2023development,
   title={Development of Supervised Machine Learning Models for the Prediction of Well-Logs \& Application on Wells at São Francisco and Santos Basins, Brazil},
   author={De Pellegrini, Vittoria},
